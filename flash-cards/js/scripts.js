@@ -1,0 +1,20 @@
+$(document).ready(function(){
+  $("#heading1").click(function(){
+    $("#hidden1").fadeIn();
+  });
+});
+$(document).ready(function(){
+  $("#heading2").click(function(){
+    $("#hidden2").fadeIn();
+  });
+});
+$(document).ready(function(){
+  $("#heading3").click(function(){
+    $("#hidden3").fadeIn();
+  });
+});
+$(document).ready(function(){
+  $("#heading4").click(function(){
+    $("#hidden4").fadeIn();
+  });
+});
